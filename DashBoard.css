@@ -1,0 +1,196 @@
+.Body{
+    background-color: rgb(231, 231, 231);
+}
+.FirstImg{
+    height: 500px;
+}
+.FirstRow{
+    padding-top: 150px;
+
+}
+.SecondBox{
+    border-radius: 20px;
+    display: block;
+    background-color: white;
+    box-shadow: rgba(12, 15, 215, 0.70) 0px 22px 70px 4px;
+}
+.Lable1 ,.Lable1{
+    width: auto;
+}
+.INPUT{
+    border-radius: 5px;
+}
+.Botton1{
+    background-color: blue;
+    border-radius: 5px;
+}
+.Card{
+    height: 120px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 1px solid black;
+    margin-top: 40px;
+    background-color: white;
+    /* margin-top: 30px; */
+}
+.Box1_H1{
+    text-align: center;
+    padding-top:25px ;
+}
+.Meter{
+    color: rgb(14, 146, 212);
+    margin-left: 230px;
+    
+}
+.Box_Lower{
+    /* padding-top: 90px; */
+    
+    margin-top: 30px;
+    
+}
+.NAV_B{
+    font-weight: bold;
+}
+.P{
+    margin-left: 5px;
+    color: white;
+}
+.Card2{
+    background-color: rgb(14, 146, 212);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.Row{
+    /* margin-top: 30px; */
+}
+.UpperBox{
+    background-color: rgb(14, 146, 212);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 30px;
+}
+.UpperBox2{
+    background-color: rgb(14, 146, 212);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 30px;
+}
+.Tp{
+    color: white;
+}
+.Tred{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.Box1{
+    height: 15px;
+    width: 40px;
+    margin-top: 6px;
+    background-color: rgb(235, 147, 160);
+}
+.Box2{
+    height: 15px;
+    width: 40px;
+    margin-top: 6px;
+    background-color: rgb(254, 212, 220);
+    border: 1px solid rgb(235, 147, 160);
+}
+.LowerBox1{
+    height: 380px;
+    background-color: white;
+}
+.LowerBox2{
+    height: 380px;
+    background-color: white;
+}
+
+/* RedirectPage css*/
+/* .navbar-nav{
+    margin-left: 100px;
+} */
+.NameProP1{
+    margin-left: 63px;
+}
+.NameProP2{
+    margin-left: 63px;
+    margin-top: 60px;
+}
+.NameProP3{
+    margin-top: 40px;
+}
+.VerticleLine{
+    height: 220px;
+    width: 1px;
+    background-color: black;
+}
+
+.Horizontal{
+    border-top: 1px solid black;
+    width: 450px;
+    display: block;
+    margin-left: 164px;
+}
+.Out1{
+    width:340px;
+    height: 50px;
+    border: 1px solid rgb(235, 147, 160);
+}
+.Inner1{
+    height: 50px;
+    width:45%;
+}
+.Out2{
+    width:170px;
+    height: 50px;
+    border: 1px solid rgb(235, 147, 160);
+}
+.Inner2{
+    height: 50px;
+    width:45%;
+}
+.Out3{
+    width:430px;
+    height: 50px;
+    border: 1px solid rgb(235, 147, 160);
+}
+.Inner3{
+    height: 50px;
+    width:45%;
+}
+.Progress1{
+    
+}
+.Bar{
+    border-radius: 0%;
+    background-color: red;
+}
+.outerPro{
+    background-color: rgb(254, 212, 220);
+}
+.InneraPro{
+    background-color: rgb(235, 147, 160);
+}
+
+/* graph progress bar */
+.Numbers{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  
+}
+.Numbers{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.Num{
+    margin-left: 10px;
+}
+.Initial{
+   margin-left: 0px;
+}
+.InnerLowerPart{
+    padding-top: 40px;
+    margin-left: 10px;
+}

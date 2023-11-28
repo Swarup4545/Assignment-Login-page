@@ -1,0 +1,26 @@
+.Body{
+    background-color: black;
+}
+.FirstImg{
+    height: 500px;
+}
+.FirstRow{
+    padding-top: 150px;
+
+}
+.SecondBox{
+    border-radius: 20px;
+    display: block;
+    background-color: white;
+    box-shadow: rgba(12, 15, 215, 0.70) 0px 22px 70px 4px;
+}
+.Lable1 ,.Lable1{
+    width: auto;
+}
+.INPUT{
+    border-radius: 5px;
+}
+.Botton1{
+    background-color: blue;
+    border-radius: 5px;
+}

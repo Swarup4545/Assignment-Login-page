@@ -1,0 +1,196 @@
+@media(200px <= width <= 380px){
+    .FirstRow{
+        padding-top: 0px;
+    }
+    .SecondBox{
+        margin-top: 100px;
+    }
+    .navbar-nav{
+        margin-left: 0px;
+    }
+    .Out1{
+        width: 188px;
+        height: 40px;
+    }
+    .Inner1{
+        height: 40px;
+    }
+    .Out2{
+        width: 80px;
+        height: 40px;
+    }
+    .Inner2{
+        height: 40px;
+    }
+    .Out3{
+        width: 205px;
+        height: 40px;
+        
+    }
+    .Inner3{
+        height: 40px;
+    }
+    .VerticleLine{
+        height: 150px;
+        width: 1px;
+        background-color: black;
+    }
+    .NamePro{
+        width: 70px;
+    }
+    .NameProP1{
+        margin-left: 0px;
+        font-size: 10px;
+    }
+    .NameProP2{
+       margin-left: 0px;
+        margin-top: 55px;
+        font-size: 10px;
+    }
+    .NameProP3{
+        
+        margin-top: 45px;
+        font-size: 10px;
+    }
+    .VerticleLine{
+        height: 200px;
+    }
+    .Horizontal{
+        border-top: 1px solid black;
+        width: 210px;
+        margin-left: 72px;
+    }   
+
+    .InnerLowerPart{
+        padding-top: 40px;
+        margin-left: 2px;
+    }
+    .I{
+        font-size: 9px;
+        
+    }
+    .Num{
+        margin-left: 1px;
+        font-size: 9px;
+    }
+} 
+
+@media(400px <= width <= 525px){
+    .Out1{
+        width: 204px;
+       
+        height: 40px;
+    }
+    .Inner1{
+        height: 40px;
+    }
+    .Out2{
+        width: 94px;
+        height: 40px;
+    }
+    .Inner2{
+        height: 40px;
+    }
+    .Out3{
+        width: 271px;
+        height: 40px;
+        
+    }
+    .Inner3{
+        height: 40px;
+    }
+    .VerticleLine{
+        height: 221px;
+        width: 1px;
+        background-color: black;
+    }
+    .NamePro{
+        width: 81px;
+    }
+    .NameProP1{
+        margin-left: 21px;
+        font-size: 15px;
+    
+    }
+    .NameProP2{
+        margin-left: 21px;
+        margin-top: 0px;
+        font-size: 15px;
+    }
+    .NameProP3{
+        margin-left: 7px;
+        margin-top: 0px;
+        font-size: 15px;
+    }
+    .Horizontal{
+        width: 280px;
+        margin-left: 90px;
+    }
+    .Num{
+        font-size:12px;
+        margin-left: 3px;
+    }
+    .I{
+        font-size: 12px;
+    }
+}
+@media(789px <= width <= 1024px){
+    .LowerBox1{
+        height: 430px;
+    }
+    .LowerBox2{
+        height: 430px;
+    }
+    .Meter{
+        margin-left:5px ;
+    }
+    .Out1{
+        width:450px;
+        height: 70px;
+    }
+    .Inner1{
+        height: 70px;
+        width:45%;
+    }
+    .Out2{
+        width:320px;
+        height: 70px;
+    }
+    .Inner2{
+        height: 70px;
+        width:45%;
+    }
+    .Out3{
+        width:580px;
+        height: 70px;
+    }
+    .Inner3{
+        height: 70px;
+        width:45%;
+    }   
+    .VerticleLine{
+        height:280px ;
+    } 
+    .Horizontal{
+        width: 600px;
+    }
+    .Num{
+        margin-left: 30px;
+    }
+    
+    .NameProP2{
+       
+        margin-top: 80px;
+    }
+    .NameProP3{
+        
+        margin-top: 80px;
+    }
+    
+}
+@media(200px <= width <= 1024px)
+{
+    .UpperBox2{
+        margin-top: 50px;
+    }
+}
